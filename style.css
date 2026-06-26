@@ -1,0 +1,6 @@
+.display-1 {
+    color: tomato;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+}
